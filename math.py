@@ -15,3 +15,5 @@ def mul (x,y):
 def div (x,y):
     pass
 #this is a basic calculator type performing function app
+def square(x):
+    return x*x
